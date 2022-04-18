@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\bin\Debug\netcoreapp3.1\Number divided by seven.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\bin\Debug\netcoreapp3.1\Number divided by seven.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\bin\Debug\netcoreapp3.1\Number divided by seven.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\bin\Debug\netcoreapp3.1\Number divided by seven.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\bin\Debug\netcoreapp3.1\Number divided by seven.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\bin\Debug\netcoreapp3.1\Number divided by seven.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Number divided by seven\Number divided by seven\Number divided by seven\obj\Debug\netcoreapp3.1\Number divided by seven.genruntimeconfig.cache
